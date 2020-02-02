@@ -1,4 +1,4 @@
-reactjs-global-store is a pacakge for managing global state for React. Its based on ContextApi.
+reactjs-global-store is a package for managing global state for React. Its based on ContextApi.
 
 ### Features
 
