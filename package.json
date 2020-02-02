@@ -2,7 +2,7 @@
   "name": "react-global-state",
   "version": "1.0.0",
   "description": "Manage react global state",
-  "main": "./build/index.js",
+  "main": "./lib/index.js",
   "scripts": {
     "build": "webpack"
   },
