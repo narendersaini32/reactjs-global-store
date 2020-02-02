@@ -1,6 +1,6 @@
 {
-  "name": "react-store-global",
-  "version": "2.0.0",
+  "name": "reactjs-global-store",
+  "version": "1.0.0",
   "description": "Manage react global state",
   "main": "./lib/index.js",
   "module": "./lib/index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/narendersaini32/react-store-global.git"
+    "url": "https://github.com/narendersaini32/reactjs-global-store.git"
   },
   "keywords": [
     "react",
@@ -20,9 +20,9 @@
   "author": "Narender Saini",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/narendersaini32/react-store-global/issues"
+    "url": "https://github.com/narendersaini32/reactjs-global-store/issues"
   },
-  "homepage": "https://github.com/narendersaini32/react-store-global#readme",
+  "homepage": "https://github.com/narendersaini32/reactjs-global-store#readme",
   "peerDependencies": {
     "prop-types": "^15.7.0",
     "react": "^16.12.0",
