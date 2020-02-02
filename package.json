@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Manage react global state",
   "main": "./lib/index.js",
+  "module": "./lib/index.js",
   "scripts": {
     "build": "webpack"
   },
