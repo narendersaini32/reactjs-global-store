@@ -7,7 +7,7 @@ class ContextProvider extends Component {
     constructor(props) {
         super(props);
         const { defaultState = {} } = props;
-        this.state = { defaultState };
+        this.state = defaultState ;
     }
 
 
