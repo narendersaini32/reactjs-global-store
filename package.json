@@ -1,6 +1,6 @@
 {
   "name": "reactjs-global-store",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Manage react global state",
   "main": "./lib/index.js",
   "module": "./lib/index.js",
