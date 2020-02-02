@@ -1,4 +1,4 @@
-reactjs-global-store is a package for managing global state for React. Its based on ContextApi.
+reactjs-global-store is a pacakge for managing global state for React. Its based on ContextApi.
 
 ### Features
 
@@ -14,24 +14,23 @@ reactjs-global-store is a package for managing global state for React. Its based
 `npm install --save reactjs-global-store`
 
 2. **Import at top level and wrap your app**
-  
 
-    /* eslint-disable react/jsx-filename-extension */
-    import React from 'react';
-    import ReactDOM from 'react-dom';
-    import { ContextProvider } from 'reactjs-global-store';
-    
-    import { Routing } from './src';
-    
-    import './src/style/index.less';
-    
-    ReactDOM.render(
-      <ContextProvider>
-        <Routing />
-      </ContextProvider>,
-      document.getElementById('app'),
-    );
-    
+
+        /* eslint-disable react/jsx-filename-extension */
+        import React from 'react';
+        import ReactDOM from 'react-dom';
+        import { ContextProvider } from 'reactjs-global-store';
+        
+        import { Routing } from './src';
+        
+        import './src/style/index.less';
+        
+        ReactDOM.render(
+          <ContextProvider>
+            <Routing />
+          </ContextProvider>,
+          document.getElementById('app'),
+        );
 
 3 . **To access the values**
  
