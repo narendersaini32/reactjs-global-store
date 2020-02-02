@@ -8,7 +8,7 @@ reactjs-global-store is a pacakge for managing global state for React. Its based
 - Reactive by nature.
 
 
-#How to use
+# How to use
 
 1. **Install the package**
 `npm install --save reactjs-global-store`
